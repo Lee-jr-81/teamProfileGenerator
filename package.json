@@ -1,0 +1,18 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "An app that generates a HTML page that summarises staff members",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.2",
+    "jest": "^29.7.0"
+  }
+}
